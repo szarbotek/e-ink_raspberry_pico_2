@@ -80,3 +80,5 @@ Po Power OFF (0x02): 0x13 | BIN: 00010011 (PON=0)
 -[] Jumper wires problems
 -[] A short circuit block RP pico2 bootlooder and normal operation.
 
+.
+
