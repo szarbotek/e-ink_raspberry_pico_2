@@ -34,7 +34,7 @@ sudo udevadm trigger
 
 ## Test connection
 
-For a simple E-ink connection test, you can check the power converter's operation by toggling it ON and OFF in a timed loop `power_conv.c`.
+For a simple E-ink connection test, you can check the power converter's operation by toggling it ON and OFF in a timed loop `power_conv`.
 
 
 ```c
