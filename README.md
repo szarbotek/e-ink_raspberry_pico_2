@@ -3,7 +3,13 @@ A lightweight framework for interfacing and controlling the **WeAct 3.7" E-Paper
 
 ### Technologies
 
-!Raspberry Pi !C++ !CMake !E-Paper !Embedded
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--Paper-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-00897B?style=for-the-badge" />
+</p>
 
 ## Hardware Connection
 
